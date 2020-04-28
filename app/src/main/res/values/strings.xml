@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">This is a button</string>
+    <string name="app1_name">This is a button</string>
+    <string name="app2_name">This is a button</string>
+    <string name="autobackup">Auto Backup</string>
+    <string name="oscar_winner">Movie name</string>
+    <string name="budget">Movie name</string>
+  g>
+    <string name="orange_textview">This is an orange TextView</string>
+    <string name="blue_textview">This is a blue TextView</string>
+    <string name="green_textview">This is a green TextView</string>
+
+
+</resources>
